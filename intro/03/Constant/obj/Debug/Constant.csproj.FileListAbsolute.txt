@@ -1,0 +1,6 @@
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\03\Constant\bin\Debug\Constant.exe.config
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\03\Constant\bin\Debug\Constant.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\03\Constant\bin\Debug\Constant.pdb
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\03\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\03\Constant\obj\Debug\Constant.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\03\Constant\obj\Debug\Constant.pdb

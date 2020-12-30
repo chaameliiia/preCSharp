@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\bin\Debug\Echo.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\bin\Debug\Echo.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\bin\Debug\Echo.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\obj\Debug\Echo.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\obj\Debug\Echo.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\05\Echo\obj\Debug\Echo.pdb

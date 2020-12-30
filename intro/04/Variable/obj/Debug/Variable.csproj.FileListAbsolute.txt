@@ -1,0 +1,6 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\04\Variable\bin\Debug\Variable.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\04\Variable\bin\Debug\Variable.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\04\Variable\bin\Debug\Variable.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\04\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\04\Variable\obj\Debug\Variable.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\04\Variable\obj\Debug\Variable.pdb

@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\obj\Debug\FirstProgram.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\01\FirstProgram\obj\Debug\FirstProgram.pdb

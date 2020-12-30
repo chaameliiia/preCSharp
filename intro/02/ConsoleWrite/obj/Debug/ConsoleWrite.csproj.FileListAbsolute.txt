@@ -1,0 +1,6 @@
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\02\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\02\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\02\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\02\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\02\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\02\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

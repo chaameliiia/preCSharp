@@ -1,0 +1,14 @@
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\chaa\Documents\github\c_sharp\Projects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\bin\Debug\UltimateBaseball.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\UltimateBaseball\UltimateBaseball\obj\Debug\UltimateBaseball.pdb
