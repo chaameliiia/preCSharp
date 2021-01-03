@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\bin\Debug\ComparisonOper.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\bin\Debug\ComparisonOper.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\bin\Debug\ComparisonOper.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\obj\Debug\ComparisonOper.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\obj\Debug\ComparisonOper.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\obj\Debug\ComparisonOper.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\06\ComparisonOper\obj\Debug\ComparisonOper.pdb
