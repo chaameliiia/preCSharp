@@ -37,7 +37,7 @@ namespace _8_2
 
                 Console.Write(studentsIdx + 1);
                 Console.Write("번째 학생의 평균은 ");
-                average = total / studentsNum;
+                average = total / subjects.Length;
                 Console.Write(average);
                 Console.WriteLine("점입니다.");
                 Console.WriteLine(" ");
