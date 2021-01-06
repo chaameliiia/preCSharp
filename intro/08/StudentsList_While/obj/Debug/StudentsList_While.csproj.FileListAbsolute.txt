@@ -1,0 +1,6 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\StudentsList_While\bin\Debug\StudentsList_While.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\StudentsList_While\bin\Debug\StudentsList_While.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\StudentsList_While\bin\Debug\StudentsList_While.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\StudentsList_While\obj\Debug\StudentsList_While.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\StudentsList_While\obj\Debug\StudentsList_While.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\StudentsList_While\obj\Debug\StudentsList_While.pdb

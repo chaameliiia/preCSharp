@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\bin\Debug\8_2.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\bin\Debug\8_2.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\bin\Debug\8_2.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\obj\Debug\8_2.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\obj\Debug\8_2.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\obj\Debug\8_2.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\Test\8_2\obj\Debug\8_2.pdb

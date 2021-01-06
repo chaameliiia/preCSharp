@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\bin\Debug\DoorRock_6Num_While.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\bin\Debug\DoorRock_6Num_While.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\bin\Debug\DoorRock_6Num_While.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\obj\Debug\DoorRock_6Num_While.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\obj\Debug\DoorRock_6Num_While.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\obj\Debug\DoorRock_6Num_While.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\08\DoorRock_6Num_While\obj\Debug\DoorRock_6Num_While.pdb
