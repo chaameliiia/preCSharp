@@ -1,0 +1,6 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\09\StudentsList_For\bin\Debug\StudentsList_For.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\09\StudentsList_For\bin\Debug\StudentsList_For.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\09\StudentsList_For\bin\Debug\StudentsList_For.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\09\StudentsList_For\obj\Debug\StudentsList_For.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\09\StudentsList_For\obj\Debug\StudentsList_For.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\09\StudentsList_For\obj\Debug\StudentsList_For.pdb

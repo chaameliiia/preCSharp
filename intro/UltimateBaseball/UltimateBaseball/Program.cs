@@ -19,25 +19,30 @@ namespace UltimateBaseball
 
             Console.WriteLine("> 수비수가 고른 숫자");
             int[] num = { 3, 1, 9 };
-            Console.WriteLine(num[0]);
-            Console.WriteLine(num[1]);
-            Console.WriteLine(num[2]);
+            int numLength = 3;
+            for (int i = 0; i < numLength; i++)
+            {
+                Console.WriteLine(num[i]);
+            }
 
-            int[] guess = new int[3];
+            int[] guess = new int[numLength];
 
             while (true)
             {
-                Console.WriteLine("> 첫번째 숫자를 입력하세요.");
-                guess[0] = int.Parse(Console.ReadLine());
-                Console.WriteLine("> 두번째 숫자를 입력하세요.");
-                guess[1] = int.Parse(Console.ReadLine());
-                Console.WriteLine("> 세번째 숫자를 입력하세요.");
-                guess[2] = int.Parse(Console.ReadLine());
+                for (int i = 0; i < numLength; i++)
+                {
+                    Console.Write("> ");
+                    Console.Write(i + 1);
+                    Console.WriteLine("번째 숫자를 입력하세요.");
+                    guess[i] = int.Parse(Console.ReadLine());
+                }
 
                 Console.WriteLine("> 공격수가 고른 숫자");
-                Console.WriteLine(guess[0]);
-                Console.WriteLine(guess[1]);
-                Console.WriteLine(guess[2]);
+
+                for(int i = 0; i < numLength; i++)
+                {
+                    Console.WriteLine(guess[i]);
+                }
 
                 if (guess[0] == guess[1] || guess[0] == guess[2] || guess[2] == guess[1]) {
                     Console.WriteLine("같은 숫자를 입력하면 안 됩니다.");
@@ -47,22 +52,22 @@ namespace UltimateBaseball
                 int countStrike = 0;
                 int countBall = 0;
 
-                if (guess[0] == num[0]) {
-                    countStrike = countStrike + 1;
-                } else if (guess[0] == num[1] || guess[0] == num[2]) {
-                    countBall = countBall + 1;
-                }
-
-                if (guess[1] == num[1]) {
-                    countStrike = countStrike + 1;
-                } else if (guess[1] == num[0] || guess[1] == num[2]) {
-                    countBall = countBall + 1;
-                }
-
-                if (guess[2] == num[2]) {
-                    countStrike = countStrike + 1;
-                } else if (guess[2] == num[0] || guess[2] == num[1]) {
-                    countBall = countBall + 1;
+                for (int i = 0; i < numLength; i++)
+                {
+                    for (int j = 0; j < numLength; j++)
+                    {
+                        if (guess[i] == num[j])
+                        {
+                            if (i == j)
+                            {
+                                countStrike++;
+                            }
+                            else
+                            {
+                                countBall++;
+                            }
+                        }
+                    }
                 }
 
                 Console.Write("스트라이크: ");
@@ -72,7 +77,7 @@ namespace UltimateBaseball
                 Console.Write("아웃: ");
                 Console.WriteLine(3 - countStrike - countBall);
 
-                if (guess[0] == num[0] && guess[1] == num[1] && guess[2] == num[2])
+                if (countStrike == 3)
                 {
                     Console.WriteLine("정답입니다.");
                     break;

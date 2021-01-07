@@ -30,7 +30,6 @@ namespace DoorRock_6Num_While
                 {
                     Console.WriteLine("비밀번호가 틀렸습니다.");
                 }
-                
             }
 
 
