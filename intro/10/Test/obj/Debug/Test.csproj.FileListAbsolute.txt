@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\bin\Debug\Test.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\bin\Debug\Test.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\bin\Debug\Test.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\obj\Debug\Test.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\obj\Debug\Test.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\Test\obj\Debug\Test.csprojAssemblyReference.cache

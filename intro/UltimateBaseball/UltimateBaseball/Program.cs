@@ -17,13 +17,38 @@ namespace UltimateBaseball
             Console.WriteLine("| 숫자가 틀리면 아웃입니다.                           |");
             Console.WriteLine("+-----------------------------------------------------+");
 
-            Console.WriteLine("> 수비수가 고른 숫자");
-            int[] num = { 3, 1, 9 };
+            Random random = new Random();
             int numLength = 3;
+            int[] num = new int[numLength];
+            int idx = 0;
+
+            while (idx < 3)
+            {
+                num[idx] = random.Next(0, 10);
+
+                bool hasDuplicate = false;
+                for (int i = 0; i < idx; i++)
+                {
+                    if (num[idx] == num[i])
+                    {
+                        hasDuplicate = true;
+                        break;
+                    }
+                }
+
+                if (!hasDuplicate)
+                {
+                    idx++;
+                }
+            }
+
+            /*
+            Console.WriteLine("> 수비수가 고른 숫자");
             for (int i = 0; i < numLength; i++)
             {
                 Console.WriteLine(num[i]);
             }
+            */
 
             int[] guess = new int[numLength];
 

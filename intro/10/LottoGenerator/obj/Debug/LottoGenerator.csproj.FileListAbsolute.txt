@@ -1,0 +1,7 @@
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\bin\Debug\LottoGenerator.exe.config
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\bin\Debug\LottoGenerator.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\bin\Debug\LottoGenerator.pdb
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\obj\Debug\LottoGenerator.csprojAssemblyReference.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\obj\Debug\LottoGenerator.csproj.CoreCompileInputs.cache
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\obj\Debug\LottoGenerator.exe
+C:\Users\chaa\Documents\github\c_sharp\PreProjects\intro\10\LottoGenerator\obj\Debug\LottoGenerator.pdb
