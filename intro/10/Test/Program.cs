@@ -87,13 +87,12 @@ namespace Test
 
                 Console.WriteLine("공격할 숫자를 고르세요.(1: 가위, 2: 바위, 3: 보)");
                 int attack = int.Parse(Console.ReadLine());
-                while (true)
+
+                if (attack > 3 || attack < 1)
                 {
-                    if (attack > 3 && attack < 1)
-                    {
-                        Console.WriteLine("1~3사이의 숫자를 입력하세요.");
-                        continue;
-                    }
+                    Console.WriteLine("1~3사이의 숫자를 입력하세요.");
+                    Console.WriteLine();
+                    continue;
                 }
                 
                 if (defence == attack) // 1 - 1 = 0
@@ -134,12 +133,12 @@ namespace Test
                 {
                     if (defence - attack == 2) // 3 - 1 = 2
                     {
-                        Console.WriteLine("졌습니다.");
+                        Console.WriteLine("이겼습니다.");
                         continue;
                     }
                     else // 3 - 2 = -1
                     {
-                        Console.WriteLine("이겼습니다.");
+                        Console.WriteLine("졌습니다.");
                         continue;
                     }
                 }
